@@ -1,0 +1,507 @@
+,Order Number,Quantity Ordered,Price Each,Order Line Number,Sales,Order Date,Status,Quarter,Month,Year,Product Line,Product Code,Customer Name,Address,City,State,Postal Code,Country,Deal Size
+0,10107,30,95.7,2,2871.0,2003-02-24,Shipped,1,Feb,2003,Motorcycles,S10_1678,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Small
+1,10145,45,83.26,6,3746.7,2003-08-25,Shipped,3,Ago,2003,Motorcycles,S10_1678,Toys4GrownUps.com,78934 Hillside Dr.,Pasadena,CA,90003,USA,Medium
+2,10159,49,100.0,14,5205.27,2003-10-10,Shipped,4,Oct,2003,Motorcycles,S10_1678,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Medium
+3,10168,36,96.66,1,3479.76,2003-10-28,Shipped,4,Oct,2003,Motorcycles,S10_1678,Technics Stores Inc.,9408 Furth Circle,Burlingame,CA,94217,USA,Medium
+4,10201,22,98.57,2,2168.54,2003-12-01,Shipped,4,Dec,2003,Motorcycles,S10_1678,Mini Wheels Co.,5557 North Pendale Street,San Francisco,CA,,USA,Small
+5,10237,23,100.0,7,2333.12,2004-04-05,Shipped,2,Apr,2004,Motorcycles,S10_1678,Vitachrome Inc.,2678 Kingston Rd.,NYC,NY,10022,USA,Small
+6,10251,28,100.0,2,3188.64,2004-05-18,Shipped,2,Mai,2004,Motorcycles,S10_1678,Tekni Collectables Inc.,7476 Moss Rd.,Newark,NJ,94019,USA,Medium
+7,10263,34,100.0,2,3676.76,2004-06-28,Shipped,2,Jun,2004,Motorcycles,S10_1678,Gift Depot Inc.,25593 South Bay Ln.,Bridgewater,CT,97562,USA,Medium
+8,10285,36,100.0,6,4099.68,2004-08-27,Shipped,3,Ago,2004,Motorcycles,S10_1678,Marta's Replicas Co.,39323 Spinnaker Dr.,Cambridge,MA,51247,USA,Medium
+9,10318,46,94.74,1,4358.04,2004-11-02,Shipped,4,Nov,2004,Motorcycles,S10_1678,Diecast Classics Inc.,7586 Pompton St.,Allentown,PA,70267,USA,Medium
+10,10329,42,100.0,1,4396.14,2004-11-15,Shipped,4,Nov,2004,Motorcycles,S10_1678,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Medium
+11,10388,42,76.36,4,3207.12,2005-03-03,Shipped,1,Mar,2005,Motorcycles,S10_1678,FunGiftIdeas.com,1785 First Street,New Bedford,MA,50553,USA,Medium
+12,10140,37,100.0,11,7374.1,2003-07-24,Shipped,3,Jul,2003,Classic Cars,S10_1949,Technics Stores Inc.,9408 Furth Circle,Burlingame,CA,94217,USA,Large
+13,10163,21,100.0,1,4860.24,2003-10-20,Shipped,4,Oct,2003,Classic Cars,S10_1949,Classic Legends Inc.,5905 Pompton St.,NYC,NY,10022,USA,Medium
+14,10183,23,100.0,8,5372.57,2003-11-13,Shipped,4,Nov,2003,Classic Cars,S10_1949,"Classic Gift Ideas, Inc",782 First Street,Philadelphia,PA,71270,USA,Medium
+15,10215,35,100.0,3,6075.3,2004-01-29,Shipped,1,Jan,2004,Classic Cars,S10_1949,West Coast Collectables Co.,3675 Furth Circle,Burbank,CA,94019,USA,Medium
+16,10228,29,100.0,2,6463.23,2004-03-10,Shipped,1,Mar,2004,Classic Cars,S10_1949,Cambridge Collectables Co.,4658 Baden Av.,Cambridge,MA,51247,USA,Medium
+17,10245,34,100.0,9,6120.34,2004-05-04,Shipped,2,Mai,2004,Classic Cars,S10_1949,Super Scale Inc.,567 North Pendale Street,New Haven,CT,97823,USA,Medium
+18,10312,48,100.0,3,11623.7,2004-10-21,Shipped,4,Oct,2004,Classic Cars,S10_1949,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Large
+19,10322,40,100.0,1,6000.4,2004-11-04,Shipped,4,Nov,2004,Classic Cars,S10_1949,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,Medium
+20,10333,26,100.0,3,3003.0,2004-11-18,Shipped,4,Nov,2004,Classic Cars,S10_1949,Mini Wheels Co.,5557 North Pendale Street,San Francisco,CA,,USA,Medium
+21,10357,32,100.0,10,5691.84,2004-12-10,Shipped,4,Dec,2004,Classic Cars,S10_1949,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+22,10369,41,100.0,2,4514.92,2005-01-20,Shipped,1,Jan,2005,Classic Cars,S10_1949,Collectables For Less Inc.,7825 Douglas Av.,Brickhaven,MA,58339,USA,Medium
+23,10381,36,100.0,3,8254.8,2005-02-17,Shipped,1,Feb,2005,Classic Cars,S10_1949,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Large
+24,10107,39,99.91,5,3896.49,2003-02-24,Shipped,1,Feb,2003,Motorcycles,S10_2016,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Medium
+25,10145,37,100.0,9,5192.95,2003-08-25,Shipped,3,Ago,2003,Motorcycles,S10_2016,Toys4GrownUps.com,78934 Hillside Dr.,Pasadena,CA,90003,USA,Medium
+26,10159,37,100.0,17,5016.83,2003-10-10,Shipped,4,Oct,2003,Motorcycles,S10_2016,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Medium
+27,10168,27,100.0,4,3660.93,2003-10-28,Shipped,4,Oct,2003,Motorcycles,S10_2016,Technics Stores Inc.,9408 Furth Circle,Burlingame,CA,94217,USA,Medium
+28,10201,24,100.0,5,3025.92,2003-12-01,Shipped,4,Dec,2003,Motorcycles,S10_2016,Mini Wheels Co.,5557 North Pendale Street,San Francisco,CA,,USA,Medium
+29,10236,22,100.0,1,2852.08,2004-04-03,Shipped,2,Apr,2004,Motorcycles,S10_2016,Motor Mint Distributors Inc.,11328 Douglas Av.,Philadelphia,PA,71270,USA,Small
+30,10251,44,100.0,5,5756.52,2004-05-18,Shipped,2,Mai,2004,Motorcycles,S10_2016,Tekni Collectables Inc.,7476 Moss Rd.,Newark,NJ,94019,USA,Medium
+31,10263,40,100.0,5,4472.0,2004-06-28,Shipped,2,Jun,2004,Motorcycles,S10_2016,Gift Depot Inc.,25593 South Bay Ln.,Bridgewater,CT,97562,USA,Medium
+32,10285,47,100.0,9,6484.59,2004-08-27,Shipped,3,Ago,2004,Motorcycles,S10_2016,Marta's Replicas Co.,39323 Spinnaker Dr.,Cambridge,MA,51247,USA,Medium
+33,10308,34,100.0,2,4043.96,2004-10-15,Shipped,4,Oct,2004,Motorcycles,S10_2016,Mini Classics,3758 North Pendale Street,White Plains,NY,24067,USA,Medium
+34,10318,45,100.0,4,5566.5,2004-11-02,Shipped,4,Nov,2004,Motorcycles,S10_2016,Diecast Classics Inc.,7586 Pompton St.,Allentown,PA,70267,USA,Medium
+35,10329,20,100.0,2,3176.0,2004-11-15,Shipped,4,Nov,2004,Motorcycles,S10_2016,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Medium
+36,10388,50,44.51,5,2225.5,2005-03-03,Shipped,1,Mar,2005,Motorcycles,S10_2016,FunGiftIdeas.com,1785 First Street,New Bedford,MA,50553,USA,Small
+37,10107,27,100.0,4,6065.55,2003-02-24,Shipped,1,Feb,2003,Motorcycles,S10_4698,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Medium
+38,10145,33,100.0,8,5176.38,2003-08-25,Shipped,3,Ago,2003,Motorcycles,S10_4698,Toys4GrownUps.com,78934 Hillside Dr.,Pasadena,CA,90003,USA,Medium
+39,10159,22,100.0,16,4132.7,2003-10-10,Shipped,4,Oct,2003,Motorcycles,S10_4698,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Medium
+40,10168,20,100.0,3,4183.0,2003-10-28,Shipped,4,Oct,2003,Motorcycles,S10_4698,Technics Stores Inc.,9408 Furth Circle,Burlingame,CA,94217,USA,Medium
+41,10201,49,100.0,4,8065.89,2003-12-01,Shipped,4,Dec,2003,Motorcycles,S10_4698,Mini Wheels Co.,5557 North Pendale Street,San Francisco,CA,,USA,Large
+42,10237,39,100.0,9,7023.9,2004-04-05,Shipped,2,Apr,2004,Motorcycles,S10_4698,Vitachrome Inc.,2678 Kingston Rd.,NYC,NY,10022,USA,Large
+43,10251,43,100.0,4,7078.23,2004-05-18,Shipped,2,Mai,2004,Motorcycles,S10_4698,Tekni Collectables Inc.,7476 Moss Rd.,Newark,NJ,94019,USA,Large
+44,10263,41,100.0,4,8336.94,2004-06-28,Shipped,2,Jun,2004,Motorcycles,S10_4698,Gift Depot Inc.,25593 South Bay Ln.,Bridgewater,CT,97562,USA,Large
+45,10285,27,100.0,8,5438.07,2004-08-27,Shipped,3,Ago,2004,Motorcycles,S10_4698,Marta's Replicas Co.,39323 Spinnaker Dr.,Cambridge,MA,51247,USA,Medium
+46,10308,20,100.0,1,4570.4,2004-10-15,Shipped,4,Oct,2004,Motorcycles,S10_4698,Mini Classics,3758 North Pendale Street,White Plains,NY,24067,USA,Medium
+47,10318,37,100.0,3,7667.14,2004-11-02,Shipped,4,Nov,2004,Motorcycles,S10_4698,Diecast Classics Inc.,7586 Pompton St.,Allentown,PA,70267,USA,Large
+48,10329,26,100.0,3,5868.2,2004-11-15,Shipped,4,Nov,2004,Motorcycles,S10_4698,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Medium
+49,10362,22,100.0,4,3664.1,2005-01-05,Shipped,1,Jan,2005,Motorcycles,S10_4698,Technics Stores Inc.,9408 Furth Circle,Burlingame,CA,94217,USA,Medium
+50,10388,21,86.77,7,1822.17,2005-03-03,Shipped,1,Mar,2005,Motorcycles,S10_4698,FunGiftIdeas.com,1785 First Street,New Bedford,MA,50553,USA,Small
+51,10143,49,100.0,15,5597.76,2003-08-10,Shipped,3,Ago,2003,Classic Cars,S10_4757,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,MA,50553,USA,Medium
+52,10209,39,100.0,8,5197.92,2004-01-09,Shipped,1,Jan,2004,Classic Cars,S10_4757,"Men 'R' US Retailers, Ltd.",6047 Douglas Av.,Los Angeles,CA,,USA,Medium
+53,10222,49,100.0,12,5997.6,2004-02-19,Shipped,1,Feb,2004,Classic Cars,S10_4757,Collectable Mini Designs Co.,361 Furth Circle,San Diego,CA,91217,USA,Medium
+54,10248,20,100.0,3,2910.4,2004-05-07,Cancelled,2,Mai,2004,Classic Cars,S10_4757,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Small
+55,10295,24,100.0,1,3427.2,2004-09-10,Shipped,3,Sep,2004,Classic Cars,S10_4757,Gifts4AllAges.com,8616 Spinnaker Dr.,Boston,MA,51003,USA,Medium
+56,10307,22,100.0,9,2692.8,2004-10-14,Shipped,4,Oct,2004,Classic Cars,S10_4757,"Classic Gift Ideas, Inc",782 First Street,Philadelphia,PA,71270,USA,Small
+57,10337,25,48.05,8,1201.25,2004-11-21,Shipped,4,Nov,2004,Classic Cars,S10_4757,Classic Legends Inc.,5905 Pompton St.,NYC,NY,10022,USA,Small
+58,10384,34,100.0,4,4846.7,2005-02-23,Shipped,1,Feb,2005,Classic Cars,S10_4757,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Medium
+59,10400,64,100.0,9,9661.44,2005-04-01,Shipped,2,Apr,2005,Classic Cars,S10_4757,The Sharp Gifts Warehouse,3086 Ingle Ln.,San Jose,CA,94217,USA,Large
+60,10414,19,100.0,3,2764.88,2005-05-06,On Hold,2,Mai,2005,Classic Cars,S10_4757,Gifts4AllAges.com,8616 Spinnaker Dr.,Boston,MA,51003,USA,Small
+61,10140,26,100.0,4,3188.12,2003-07-24,Shipped,3,Jul,2003,Classic Cars,S10_4962,Technics Stores Inc.,9408 Furth Circle,Burlingame,CA,94217,USA,Medium
+62,10183,28,100.0,1,3433.36,2003-11-13,Shipped,4,Nov,2003,Classic Cars,S10_4962,"Classic Gift Ideas, Inc",782 First Street,Philadelphia,PA,71270,USA,Medium
+63,10207,31,100.0,15,4076.19,2003-12-09,Shipped,4,Dec,2003,Classic Cars,S10_4962,Diecast Collectables,6251 Ingle Ln.,Boston,MA,51003,USA,Medium
+64,10229,50,100.0,9,6426.5,2004-03-11,Shipped,1,Mar,2004,Classic Cars,S10_4962,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+65,10245,28,100.0,2,4591.72,2004-05-04,Shipped,2,Mai,2004,Classic Cars,S10_4962,Super Scale Inc.,567 North Pendale Street,New Haven,CT,97823,USA,Medium
+66,10281,44,100.0,9,7020.64,2004-08-19,Shipped,3,Ago,2004,Classic Cars,S10_4962,Diecast Classics Inc.,7586 Pompton St.,Allentown,PA,70267,USA,Large
+67,10305,38,100.0,13,6680.78,2004-10-13,Shipped,4,Oct,2004,Classic Cars,S10_4962,Marta's Replicas Co.,39323 Spinnaker Dr.,Cambridge,MA,51247,USA,Medium
+68,10322,46,61.99,8,2851.54,2004-11-04,Shipped,4,Nov,2004,Classic Cars,S10_4962,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,Small
+69,10357,43,100.0,9,5780.92,2004-12-10,Shipped,4,Dec,2004,Classic Cars,S10_4962,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+70,10381,37,100.0,6,6231.54,2005-02-17,Shipped,1,Feb,2005,Classic Cars,S10_4962,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Medium
+71,10135,42,100.0,7,8008.56,2003-07-02,Shipped,3,Jul,2003,Classic Cars,S12_1099,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Large
+72,10147,48,100.0,7,9245.76,2003-09-05,Shipped,3,Sep,2003,Classic Cars,S12_1099,Collectables For Less Inc.,7825 Douglas Av.,Brickhaven,MA,58339,USA,Large
+73,10159,41,100.0,2,8296.35,2003-10-10,Shipped,4,Oct,2003,Classic Cars,S12_1099,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Large
+74,10276,50,100.0,3,9631.0,2004-08-02,Shipped,3,Ago,2004,Classic Cars,S12_1099,Online Mini Collectables,7635 Spinnaker Dr.,Brickhaven,MA,58339,USA,Large
+75,10329,41,71.47,5,2930.27,2004-11-15,Shipped,4,Nov,2004,Classic Cars,S12_1099,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Small
+76,10127,46,100.0,2,11279.2,2003-06-03,Shipped,2,Jun,2003,Classic Cars,S12_1108,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Large
+77,10142,33,100.0,12,8023.29,2003-08-08,Shipped,3,Ago,2003,Classic Cars,S12_1108,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Large
+78,10185,21,100.0,13,3883.74,2003-11-14,Shipped,4,Nov,2003,Classic Cars,S12_1108,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,MA,50553,USA,Medium
+79,10196,47,100.0,5,8887.7,2003-11-26,Shipped,4,Nov,2003,Classic Cars,S12_1108,Super Scale Inc.,567 North Pendale Street,New Haven,CT,97823,USA,Large
+80,10272,35,100.0,2,5818.4,2004-07-20,Shipped,3,Jul,2004,Classic Cars,S12_1108,Diecast Classics Inc.,7586 Pompton St.,Allentown,PA,70267,USA,Medium
+81,10282,41,100.0,5,7071.27,2004-08-20,Shipped,3,Ago,2004,Classic Cars,S12_1108,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Large
+82,10371,32,100.0,6,3560.64,2005-01-23,Shipped,1,Jan,2005,Classic Cars,S12_1108,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+83,10382,34,100.0,10,3823.64,2005-02-17,Shipped,1,Feb,2005,Classic Cars,S12_1108,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+84,10413,36,100.0,2,8677.8,2005-05-05,Shipped,2,Mai,2005,Classic Cars,S12_1108,Gift Depot Inc.,25593 South Bay Ln.,Bridgewater,CT,97562,USA,Large
+85,10113,21,100.0,2,3415.44,2003-03-26,Shipped,1,Mar,2003,Trucks and Buses,S12_1666,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+86,10140,38,100.0,8,4829.8,2003-07-24,Shipped,3,Jul,2003,Trucks and Buses,S12_1666,Technics Stores Inc.,9408 Furth Circle,Burlingame,CA,94217,USA,Medium
+87,10183,41,100.0,5,6163.94,2003-11-13,Shipped,4,Nov,2003,Trucks and Buses,S12_1666,"Classic Gift Ideas, Inc",782 First Street,Philadelphia,PA,71270,USA,Medium
+88,10229,25,100.0,13,3451.0,2004-03-11,Shipped,1,Mar,2004,Trucks and Buses,S12_1666,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+89,10245,38,100.0,6,5920.4,2004-05-04,Shipped,2,Mai,2004,Trucks and Buses,S12_1666,Super Scale Inc.,567 North Pendale Street,New Haven,CT,97823,USA,Medium
+90,10281,25,100.0,13,2938.5,2004-08-19,Shipped,3,Ago,2004,Trucks and Buses,S12_1666,Diecast Classics Inc.,7586 Pompton St.,Allentown,PA,70267,USA,Small
+91,10322,27,100.0,9,4784.13,2004-11-04,Shipped,4,Nov,2004,Trucks and Buses,S12_1666,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,Medium
+92,10333,33,99.21,6,3273.93,2004-11-18,Shipped,4,Nov,2004,Trucks and Buses,S12_1666,Mini Wheels Co.,5557 North Pendale Street,San Francisco,CA,,USA,Medium
+93,10357,49,100.0,8,5960.36,2004-12-10,Shipped,4,Dec,2004,Trucks and Buses,S12_1666,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+94,10381,20,100.0,1,2952.0,2005-02-17,Shipped,1,Feb,2005,Trucks and Buses,S12_1666,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Small
+95,10107,21,100.0,1,3036.6,2003-02-24,Shipped,1,Feb,2003,Motorcycles,S12_2823,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Medium
+96,10145,49,100.0,5,8339.8,2003-08-25,Shipped,3,Ago,2003,Motorcycles,S12_2823,Toys4GrownUps.com,78934 Hillside Dr.,Pasadena,CA,90003,USA,Large
+97,10159,38,100.0,13,6238.84,2003-10-10,Shipped,4,Oct,2003,Motorcycles,S12_2823,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Medium
+98,10189,28,100.0,1,4512.48,2003-11-18,Shipped,4,Nov,2003,Motorcycles,S12_2823,Toys4GrownUps.com,78934 Hillside Dr.,Pasadena,CA,90003,USA,Medium
+99,10201,25,100.0,1,4029.0,2003-12-01,Shipped,4,Dec,2003,Motorcycles,S12_2823,Mini Wheels Co.,5557 North Pendale Street,San Francisco,CA,,USA,Medium
+100,10237,32,100.0,6,4193.28,2004-04-05,Shipped,2,Apr,2004,Motorcycles,S12_2823,Vitachrome Inc.,2678 Kingston Rd.,NYC,NY,10022,USA,Medium
+101,10251,46,100.0,1,7552.28,2004-05-18,Shipped,2,Mai,2004,Motorcycles,S12_2823,Tekni Collectables Inc.,7476 Moss Rd.,Newark,NJ,94019,USA,Large
+102,10263,48,100.0,1,6434.4,2004-06-28,Shipped,2,Jun,2004,Motorcycles,S12_2823,Gift Depot Inc.,25593 South Bay Ln.,Bridgewater,CT,97562,USA,Medium
+103,10276,43,100.0,14,5181.5,2004-08-02,Shipped,3,Ago,2004,Motorcycles,S12_2823,Online Mini Collectables,7635 Spinnaker Dr.,Brickhaven,MA,58339,USA,Medium
+104,10285,49,100.0,5,6863.92,2004-08-27,Shipped,3,Ago,2004,Motorcycles,S12_2823,Marta's Replicas Co.,39323 Spinnaker Dr.,Cambridge,MA,51247,USA,Medium
+105,10319,30,100.0,9,4111.8,2004-11-03,Shipped,4,Nov,2004,Motorcycles,S12_2823,Microscale Inc.,5290 North Pendale Street,NYC,NY,10022,USA,Medium
+106,10329,24,100.0,6,3542.64,2004-11-15,Shipped,4,Nov,2004,Motorcycles,S12_2823,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Medium
+107,10362,22,100.0,1,3877.06,2005-01-05,Shipped,1,Jan,2005,Motorcycles,S12_2823,Technics Stores Inc.,9408 Furth Circle,Burlingame,CA,94217,USA,Medium
+108,10388,44,100.0,6,5951.44,2005-03-03,Shipped,1,Mar,2005,Motorcycles,S12_2823,FunGiftIdeas.com,1785 First Street,New Bedford,MA,50553,USA,Medium
+109,10127,46,100.0,3,7366.44,2003-06-03,Shipped,2,Jun,2003,Classic Cars,S12_3148,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Large
+110,10142,33,100.0,13,4985.64,2003-08-08,Shipped,3,Ago,2003,Classic Cars,S12_3148,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+111,10185,33,100.0,14,4038.21,2003-11-14,Shipped,4,Nov,2003,Classic Cars,S12_3148,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,MA,50553,USA,Medium
+112,10196,24,100.0,6,3807.12,2003-11-26,Shipped,4,Nov,2003,Classic Cars,S12_3148,Super Scale Inc.,567 North Pendale Street,New Haven,CT,97823,USA,Medium
+113,10272,27,100.0,3,4283.01,2004-07-20,Shipped,3,Jul,2004,Classic Cars,S12_3148,Diecast Classics Inc.,7586 Pompton St.,Allentown,PA,70267,USA,Medium
+114,10282,27,100.0,6,4364.82,2004-08-20,Shipped,3,Ago,2004,Classic Cars,S12_3148,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+115,10324,27,54.33,1,1466.91,2004-11-05,Shipped,4,Nov,2004,Classic Cars,S12_3148,Vitachrome Inc.,2678 Kingston Rd.,NYC,NY,10022,USA,Small
+116,10382,37,100.0,11,4071.85,2005-02-17,Shipped,1,Feb,2005,Classic Cars,S12_3148,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+117,10413,47,100.0,3,8236.75,2005-05-05,Shipped,2,Mai,2005,Classic Cars,S12_3148,Gift Depot Inc.,25593 South Bay Ln.,Bridgewater,CT,97562,USA,Large
+118,10135,48,100.0,5,6031.68,2003-07-02,Shipped,3,Jul,2003,Classic Cars,S12_3380,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+119,10147,31,100.0,5,3494.94,2003-09-05,Shipped,3,Sep,2003,Classic Cars,S12_3380,Collectables For Less Inc.,7825 Douglas Av.,Brickhaven,MA,58339,USA,Medium
+120,10160,46,100.0,6,5294.14,2003-10-11,Shipped,4,Oct,2003,Classic Cars,S12_3380,"Men 'R' US Retailers, Ltd.",6047 Douglas Av.,Los Angeles,CA,,USA,Medium
+121,10276,47,100.0,1,5464.69,2004-08-02,Shipped,3,Ago,2004,Classic Cars,S12_3380,Online Mini Collectables,7635 Spinnaker Dr.,Brickhaven,MA,58339,USA,Medium
+122,10329,46,83.63,13,3846.98,2004-11-15,Shipped,4,Nov,2004,Classic Cars,S12_3380,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Medium
+123,10376,35,100.0,1,3987.2,2005-02-08,Shipped,1,Feb,2005,Classic Cars,S12_3380,Boards & Toys Co.,4097 Douglas Av.,Glendale,CA,92561,USA,Medium
+124,10127,42,100.0,1,8138.76,2003-06-03,Shipped,2,Jun,2003,Classic Cars,S12_3891,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Large
+125,10142,46,100.0,11,9470.94,2003-08-08,Shipped,3,Ago,2003,Classic Cars,S12_3891,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Large
+126,10185,43,100.0,12,7886.2,2003-11-14,Shipped,4,Nov,2003,Classic Cars,S12_3891,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,MA,50553,USA,Large
+127,10196,38,100.0,4,7232.16,2003-11-26,Shipped,4,Nov,2003,Classic Cars,S12_3891,Super Scale Inc.,567 North Pendale Street,New Haven,CT,97823,USA,Large
+128,10272,39,100.0,1,7962.24,2004-07-20,Shipped,3,Jul,2004,Classic Cars,S12_3891,Diecast Classics Inc.,7586 Pompton St.,Allentown,PA,70267,USA,Large
+129,10282,24,100.0,4,3778.8,2004-08-20,Shipped,3,Ago,2004,Classic Cars,S12_3891,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+130,10349,26,100.0,10,4408.56,2004-12-01,Shipped,4,Dec,2004,Classic Cars,S12_3891,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Medium
+131,10382,34,95.35,12,3241.9,2005-02-17,Shipped,1,Feb,2005,Classic Cars,S12_3891,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+132,10396,33,100.0,3,6109.29,2005-03-23,Shipped,1,Mar,2005,Classic Cars,S12_3891,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+133,10413,22,100.0,1,3387.78,2005-05-05,Shipped,2,Mai,2005,Classic Cars,S12_3891,Gift Depot Inc.,25593 South Bay Ln.,Bridgewater,CT,97562,USA,Medium
+134,10135,24,75.01,8,1800.24,2003-07-02,Shipped,3,Jul,2003,Classic Cars,S12_3990,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+135,10147,21,63.84,8,1340.64,2003-09-05,Shipped,3,Sep,2003,Classic Cars,S12_3990,Collectables For Less Inc.,7825 Douglas Av.,Brickhaven,MA,58339,USA,Small
+136,10159,24,73.42,3,1762.08,2003-10-10,Shipped,4,Oct,2003,Classic Cars,S12_3990,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Small
+137,10276,38,83.79,4,3184.02,2004-08-02,Shipped,3,Ago,2004,Classic Cars,S12_3990,Online Mini Collectables,7635 Spinnaker Dr.,Brickhaven,MA,58339,USA,Medium
+138,10329,33,100.0,14,3607.56,2004-11-15,Shipped,4,Nov,2004,Classic Cars,S12_3990,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Medium
+139,10115,46,100.0,5,5723.78,2003-04-04,Shipped,2,Apr,2003,Trucks and Buses,S12_4473,Classic Legends Inc.,5905 Pompton St.,NYC,NY,10022,USA,Medium
+140,10127,24,100.0,11,2559.6,2003-06-03,Shipped,2,Jun,2003,Trucks and Buses,S12_4473,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Small
+141,10195,49,100.0,6,6445.46,2003-11-25,Shipped,4,Nov,2003,Trucks and Buses,S12_4473,Mini Classics,3758 North Pendale Street,White Plains,NY,24067,USA,Medium
+142,10207,34,99.54,7,3384.36,2003-12-09,Shipped,4,Dec,2003,Trucks and Buses,S12_4473,Diecast Collectables,6251 Ingle Ln.,Boston,MA,51003,USA,Medium
+143,10219,48,100.0,2,4891.68,2004-02-10,Shipped,1,Feb,2004,Trucks and Buses,S12_4473,Signal Collectibles Ltd.,2793 Furth Circle,Brisbane,CA,94217,USA,Medium
+144,10229,36,100.0,1,4521.96,2004-03-11,Shipped,1,Mar,2004,Trucks and Buses,S12_4473,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+145,10271,31,97.17,5,3012.27,2004-07-20,Shipped,3,Jul,2004,Trucks and Buses,S12_4473,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+146,10281,41,100.0,1,5247.18,2004-08-19,Shipped,3,Ago,2004,Trucks and Buses,S12_4473,Diecast Classics Inc.,7586 Pompton St.,Allentown,PA,70267,USA,Medium
+147,10292,21,100.0,8,2214.87,2004-09-08,Shipped,3,Sep,2004,Trucks and Buses,S12_4473,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Small
+148,10305,38,100.0,5,4773.18,2004-10-13,Shipped,4,Oct,2004,Trucks and Buses,S12_4473,Marta's Replicas Co.,39323 Spinnaker Dr.,Cambridge,MA,51247,USA,Medium
+149,10324,26,58.38,7,1517.88,2004-11-05,Shipped,4,Nov,2004,Trucks and Buses,S12_4473,Vitachrome Inc.,2678 Kingston Rd.,NYC,NY,10022,USA,Small
+150,10349,48,100.0,9,5232.96,2004-12-01,Shipped,4,Dec,2004,Trucks and Buses,S12_4473,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Medium
+151,10371,49,35.71,4,1749.79,2005-01-23,Shipped,1,Jan,2005,Trucks and Buses,S12_4473,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+152,10382,32,66.58,13,2130.56,2005-02-17,Shipped,1,Feb,2005,Trucks and Buses,S12_4473,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+153,10135,29,97.89,4,2838.81,2003-07-02,Shipped,3,Jul,2003,Classic Cars,S12_4675,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+154,10147,33,97.89,4,3230.37,2003-09-05,Shipped,3,Sep,2003,Classic Cars,S12_4675,Collectables For Less Inc.,7825 Douglas Av.,Brickhaven,MA,58339,USA,Medium
+155,10160,50,100.0,5,5182.0,2003-10-11,Shipped,4,Oct,2003,Classic Cars,S12_4675,"Men 'R' US Retailers, Ltd.",6047 Douglas Av.,Los Angeles,CA,,USA,Medium
+156,10192,27,100.0,16,3544.56,2003-11-20,Shipped,4,Nov,2003,Classic Cars,S12_4675,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,Medium
+157,10321,24,100.0,15,2984.88,2004-11-04,Shipped,4,Nov,2004,Classic Cars,S12_4675,FunGiftIdeas.com,1785 First Street,New Bedford,MA,50553,USA,Small
+158,10329,39,64.74,15,2524.86,2004-11-15,Shipped,4,Nov,2004,Classic Cars,S12_4675,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Small
+159,10113,49,100.0,4,4916.66,2003-03-26,Shipped,1,Mar,2003,Trucks and Buses,S18_1097,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+160,10140,32,100.0,10,4181.44,2003-07-24,Shipped,3,Jul,2003,Trucks and Buses,S18_1097,Technics Stores Inc.,9408 Furth Circle,Burlingame,CA,94217,USA,Medium
+161,10183,21,96.84,7,2033.64,2003-11-13,Shipped,4,Nov,2003,Trucks and Buses,S18_1097,"Classic Gift Ideas, Inc",782 First Street,Philadelphia,PA,71270,USA,Small
+162,10215,46,100.0,2,5152.0,2004-01-29,Shipped,1,Jan,2004,Trucks and Buses,S18_1097,West Coast Collectables Co.,3675 Furth Circle,Burbank,CA,94019,USA,Medium
+163,10228,32,100.0,1,3360.0,2004-03-10,Shipped,1,Mar,2004,Trucks and Buses,S18_1097,Cambridge Collectables Co.,4658 Baden Av.,Cambridge,MA,51247,USA,Medium
+164,10245,29,100.0,8,3451.0,2004-05-04,Shipped,2,Mai,2004,Trucks and Buses,S18_1097,Super Scale Inc.,567 North Pendale Street,New Haven,CT,97823,USA,Medium
+165,10312,32,100.0,2,4181.44,2004-10-21,Shipped,4,Oct,2004,Trucks and Buses,S18_1097,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+166,10322,22,100.0,10,2251.04,2004-11-04,Shipped,4,Nov,2004,Trucks and Buses,S18_1097,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,Small
+167,10333,29,40.25,7,1167.25,2004-11-18,Shipped,4,Nov,2004,Trucks and Buses,S18_1097,Mini Wheels Co.,5557 North Pendale Street,San Francisco,CA,,USA,Small
+168,10357,39,98.0,1,3822.0,2004-12-10,Shipped,4,Dec,2004,Trucks and Buses,S18_1097,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+169,10381,48,98.0,2,4704.0,2005-02-17,Shipped,1,Feb,2005,Trucks and Buses,S18_1097,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Medium
+170,10109,26,100.0,4,4379.18,2003-03-10,Shipped,1,Mar,2003,Classic Cars,S18_1129,Motor Mint Distributors Inc.,11328 Douglas Av.,Philadelphia,PA,71270,USA,Medium
+171,10192,22,100.0,11,3300.66,2003-11-20,Shipped,4,Nov,2003,Classic Cars,S18_1129,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,Medium
+172,10204,42,100.0,17,6182.4,2003-12-02,Shipped,4,Dec,2003,Classic Cars,S18_1129,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Medium
+173,10278,34,100.0,6,4667.86,2004-08-06,Shipped,3,Ago,2004,Classic Cars,S18_1129,Signal Gift Stores,8489 Strong St.,Las Vegas,NV,83030,USA,Medium
+174,10321,41,100.0,10,5803.14,2004-11-04,Shipped,4,Nov,2004,Classic Cars,S18_1129,FunGiftIdeas.com,1785 First Street,New Bedford,MA,50553,USA,Medium
+175,10331,46,100.0,6,6434.02,2004-11-17,Shipped,4,Nov,2004,Classic Cars,S18_1129,Motor Mint Distributors Inc.,11328 Douglas Av.,Philadelphia,PA,71270,USA,Medium
+176,10365,30,87.06,1,2611.8,2005-01-07,Shipped,1,Jan,2005,Classic Cars,S18_1129,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,MA,50553,USA,Small
+177,10390,36,93.77,14,3375.72,2005-03-04,Shipped,1,Mar,2005,Classic Cars,S18_1129,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+178,10102,39,100.0,2,4808.31,2003-01-10,Shipped,1,Jan,2003,Vintage Cars,S18_1342,Vitachrome Inc.,2678 Kingston Rd.,NYC,NY,10022,USA,Medium
+179,10111,33,99.66,6,3288.78,2003-03-25,Shipped,1,Mar,2003,Vintage Cars,S18_1342,Mini Wheels Co.,5557 North Pendale Street,San Francisco,CA,,USA,Medium
+180,10149,50,100.0,4,5907.5,2003-09-12,Shipped,3,Sep,2003,Vintage Cars,S18_1342,Signal Collectibles Ltd.,2793 Furth Circle,Brisbane,CA,94217,USA,Medium
+181,10162,48,91.44,2,4389.12,2003-10-18,Shipped,4,Oct,2003,Vintage Cars,S18_1342,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Medium
+182,10182,25,87.33,3,2183.25,2003-11-12,Shipped,4,Nov,2003,Vintage Cars,S18_1342,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+183,10215,27,89.38,10,2413.26,2004-01-29,Shipped,1,Jan,2004,Vintage Cars,S18_1342,West Coast Collectables Co.,3675 Furth Circle,Burbank,CA,94019,USA,Small
+184,10312,43,89.38,10,3843.34,2004-10-21,Shipped,4,Oct,2004,Vintage Cars,S18_1342,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+185,10322,43,86.3,14,3710.9,2004-11-04,Shipped,4,Nov,2004,Vintage Cars,S18_1342,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,Medium
+186,10346,42,36.11,3,1516.62,2004-11-29,Shipped,4,Nov,2004,Vintage Cars,S18_1342,Signal Gift Stores,8489 Strong St.,Las Vegas,NV,83030,USA,Small
+187,10369,44,100.0,8,9240.44,2005-01-20,Shipped,1,Jan,2005,Vintage Cars,S18_1342,Collectables For Less Inc.,7825 Douglas Av.,Brickhaven,MA,58339,USA,Large
+188,10422,51,95.55,2,4873.05,2005-05-30,In Process,2,Mai,2005,Vintage Cars,S18_1342,Diecast Classics Inc.,7586 Pompton St.,Allentown,PA,70267,USA,Medium
+189,10102,41,50.14,1,2055.74,2003-01-10,Shipped,1,Jan,2003,Vintage Cars,S18_1367,Vitachrome Inc.,2678 Kingston Rd.,NYC,NY,10022,USA,Small
+190,10111,48,49.06,5,2354.88,2003-03-25,Shipped,1,Mar,2003,Vintage Cars,S18_1367,Mini Wheels Co.,5557 North Pendale Street,San Francisco,CA,,USA,Small
+191,10149,30,58.22,3,1746.6,2003-09-12,Shipped,3,Sep,2003,Vintage Cars,S18_1367,Signal Collectibles Ltd.,2793 Furth Circle,Brisbane,CA,94217,USA,Small
+192,10162,45,51.21,1,2304.45,2003-10-18,Shipped,4,Oct,2003,Vintage Cars,S18_1367,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Small
+193,10182,32,54.45,2,1742.4,2003-11-12,Shipped,4,Nov,2003,Vintage Cars,S18_1367,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+194,10215,33,43.13,9,1423.29,2004-01-29,Shipped,1,Jan,2004,Vintage Cars,S18_1367,West Coast Collectables Co.,3675 Furth Circle,Burbank,CA,94019,USA,Small
+195,10312,25,44.21,9,1105.25,2004-10-21,Shipped,4,Oct,2004,Vintage Cars,S18_1367,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+196,10322,41,57.68,5,2364.88,2004-11-04,Shipped,4,Nov,2004,Vintage Cars,S18_1367,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,Small
+197,10369,32,98.63,7,3156.16,2005-01-20,Shipped,1,Jan,2005,Vintage Cars,S18_1367,Collectables For Less Inc.,7825 Douglas Av.,Brickhaven,MA,58339,USA,Medium
+198,10381,25,52.83,9,1320.75,2005-02-17,Shipped,1,Feb,2005,Vintage Cars,S18_1367,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Small
+199,10422,25,51.75,1,1293.75,2005-05-30,In Process,2,Mai,2005,Vintage Cars,S18_1367,Diecast Classics Inc.,7586 Pompton St.,Allentown,PA,70267,USA,Small
+200,10172,42,100.0,6,4965.24,2003-11-05,Shipped,4,Nov,2003,Classic Cars,S18_1589,Gift Depot Inc.,25593 South Bay Ln.,Bridgewater,CT,97562,USA,Medium
+201,10192,29,100.0,7,4258.36,2003-11-20,Shipped,4,Nov,2003,Classic Cars,S18_1589,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,Medium
+202,10204,40,100.0,13,4032.0,2003-12-02,Shipped,4,Dec,2003,Classic Cars,S18_1589,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Medium
+203,10226,38,100.0,4,4161.38,2004-02-26,Shipped,1,Feb,2004,Classic Cars,S18_1589,Collectable Mini Designs Co.,361 Furth Circle,San Diego,CA,91217,USA,Medium
+204,10278,23,100.0,2,2604.52,2004-08-06,Shipped,3,Ago,2004,Classic Cars,S18_1589,Signal Gift Stores,8489 Strong St.,Las Vegas,NV,83030,USA,Small
+205,10321,44,100.0,6,4489.76,2004-11-04,Shipped,4,Nov,2004,Classic Cars,S18_1589,FunGiftIdeas.com,1785 First Street,New Bedford,MA,50553,USA,Medium
+206,10331,44,100.0,14,4849.24,2004-11-17,Shipped,4,Nov,2004,Classic Cars,S18_1589,Motor Mint Distributors Inc.,11328 Douglas Av.,Philadelphia,PA,71270,USA,Medium
+207,10367,49,56.3,1,2758.7,2005-01-12,Resolved,1,Jan,2005,Classic Cars,S18_1589,Toys4GrownUps.com,78934 Hillside Dr.,Pasadena,CA,90003,USA,Small
+208,10407,59,100.0,11,7048.14,2005-04-22,On Hold,2,Apr,2005,Classic Cars,S18_1589,The Sharp Gifts Warehouse,3086 Ingle Ln.,San Jose,CA,94217,USA,Large
+209,10131,21,100.0,4,2781.66,2003-06-16,Shipped,2,Jun,2003,Planes,S18_1662,Gift Ideas Corp.,2440 Pompton St.,Glendale,CT,97561,USA,Small
+210,10143,32,100.0,7,5248.0,2003-08-10,Shipped,3,Ago,2003,Planes,S18_1662,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,MA,50553,USA,Medium
+211,10222,49,100.0,4,6954.08,2004-02-19,Shipped,1,Feb,2004,Planes,S18_1662,Collectable Mini Designs Co.,361 Furth Circle,San Diego,CA,91217,USA,Medium
+212,10250,45,100.0,14,8160.3,2004-05-11,Shipped,2,Mai,2004,Planes,S18_1662,The Sharp Gifts Warehouse,3086 Ingle Ln.,San Jose,CA,94217,USA,Large
+213,10274,41,100.0,1,6724.0,2004-07-21,Shipped,3,Jul,2004,Planes,S18_1662,Collectables For Less Inc.,7825 Douglas Av.,Brickhaven,MA,58339,USA,Medium
+214,10307,39,100.0,1,7379.97,2004-10-14,Shipped,4,Oct,2004,Planes,S18_1662,"Classic Gift Ideas, Inc",782 First Street,Philadelphia,PA,71270,USA,Large
+215,10400,34,100.0,1,6433.82,2005-04-01,Shipped,2,Apr,2005,Planes,S18_1662,The Sharp Gifts Warehouse,3086 Ingle Ln.,San Jose,CA,94217,USA,Medium
+216,10100,30,100.0,3,5151.0,2003-01-06,Shipped,1,Jan,2003,Vintage Cars,S18_1749,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,Medium
+217,10124,21,100.0,6,2856.0,2003-05-21,Shipped,2,Mai,2003,Vintage Cars,S18_1749,Signal Gift Stores,8489 Strong St.,Las Vegas,NV,83030,USA,Small
+218,10149,34,100.0,11,5375.4,2003-09-12,Shipped,3,Sep,2003,Vintage Cars,S18_1749,Signal Collectibles Ltd.,2793 Furth Circle,Brisbane,CA,94217,USA,Medium
+219,10162,29,100.0,9,5176.5,2003-10-18,Shipped,4,Oct,2003,Vintage Cars,S18_1749,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Medium
+220,10182,44,100.0,10,7554.8,2003-11-12,Shipped,4,Nov,2003,Vintage Cars,S18_1749,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Large
+221,10204,33,100.0,4,5890.5,2003-12-02,Shipped,4,Dec,2003,Vintage Cars,S18_1749,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Medium
+222,10312,48,100.0,17,8078.4,2004-10-21,Shipped,4,Oct,2004,Vintage Cars,S18_1749,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Large
+223,10331,44,74.04,7,3257.76,2004-11-17,Shipped,4,Nov,2004,Vintage Cars,S18_1749,Motor Mint Distributors Inc.,11328 Douglas Av.,Philadelphia,PA,71270,USA,Medium
+224,10367,37,100.0,3,4703.81,2005-01-12,Resolved,1,Jan,2005,Vintage Cars,S18_1749,Toys4GrownUps.com,78934 Hillside Dr.,Pasadena,CA,90003,USA,Medium
+225,10407,76,100.0,2,14082.8,2005-04-22,On Hold,2,Apr,2005,Vintage Cars,S18_1749,The Sharp Gifts Warehouse,3086 Ingle Ln.,San Jose,CA,94217,USA,Large
+226,10135,48,79.31,3,3806.88,2003-07-02,Shipped,3,Jul,2003,Classic Cars,S18_1889,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+227,10147,26,82.39,3,2142.14,2003-09-05,Shipped,3,Sep,2003,Classic Cars,S18_1889,Collectables For Less Inc.,7825 Douglas Av.,Brickhaven,MA,58339,USA,Small
+228,10160,38,88.55,4,3364.9,2003-10-11,Shipped,4,Oct,2003,Classic Cars,S18_1889,"Men 'R' US Retailers, Ltd.",6047 Douglas Av.,Los Angeles,CA,,USA,Medium
+229,10192,45,90.86,15,4088.7,2003-11-20,Shipped,4,Nov,2003,Classic Cars,S18_1889,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,Medium
+230,10278,29,90.86,10,2634.94,2004-08-06,Shipped,3,Ago,2004,Classic Cars,S18_1889,Signal Gift Stores,8489 Strong St.,Las Vegas,NV,83030,USA,Small
+231,10321,37,78.54,14,2905.98,2004-11-04,Shipped,4,Nov,2004,Classic Cars,S18_1889,FunGiftIdeas.com,1785 First Street,New Bedford,MA,50553,USA,Small
+232,10329,29,100.0,9,2954.81,2004-11-15,Shipped,4,Nov,2004,Classic Cars,S18_1889,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Small
+233,10109,38,100.0,3,4432.7,2003-03-10,Shipped,1,Mar,2003,Classic Cars,S18_1984,Motor Mint Distributors Inc.,11328 Douglas Av.,Philadelphia,PA,71270,USA,Medium
+234,10192,47,100.0,10,7421.3,2003-11-20,Shipped,4,Nov,2003,Classic Cars,S18_1984,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,Large
+235,10204,38,100.0,16,6432.64,2003-12-02,Shipped,4,Dec,2003,Classic Cars,S18_1984,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Medium
+236,10226,24,100.0,7,3892.08,2004-02-26,Shipped,1,Feb,2004,Classic Cars,S18_1984,Collectable Mini Designs Co.,361 Furth Circle,San Diego,CA,91217,USA,Medium
+237,10278,29,100.0,5,3754.05,2004-08-06,Shipped,3,Ago,2004,Classic Cars,S18_1984,Signal Gift Stores,8489 Strong St.,Las Vegas,NV,83030,USA,Medium
+238,10321,25,100.0,9,3734.0,2004-11-04,Shipped,4,Nov,2004,Classic Cars,S18_1984,FunGiftIdeas.com,1785 First Street,New Bedford,MA,50553,USA,Medium
+239,10331,30,32.47,8,974.1,2004-11-17,Shipped,4,Nov,2004,Classic Cars,S18_1984,Motor Mint Distributors Inc.,11328 Douglas Av.,Philadelphia,PA,71270,USA,Small
+240,10390,34,43.05,15,1463.7,2005-03-04,Shipped,1,Mar,2005,Classic Cars,S18_1984,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+241,10115,46,100.0,4,7381.16,2003-04-04,Shipped,2,Apr,2003,Classic Cars,S18_2238,Classic Legends Inc.,5905 Pompton St.,NYC,NY,10022,USA,Large
+242,10127,45,100.0,10,7146.9,2003-06-03,Shipped,2,Jun,2003,Classic Cars,S18_2238,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Large
+243,10195,27,100.0,5,5128.11,2003-11-25,Shipped,4,Nov,2003,Classic Cars,S18_2238,Mini Classics,3758 North Pendale Street,White Plains,NY,24067,USA,Medium
+244,10207,44,100.0,6,7060.24,2003-12-09,Shipped,4,Dec,2003,Classic Cars,S18_2238,Diecast Collectables,6251 Ingle Ln.,Boston,MA,51003,USA,Large
+245,10219,43,100.0,1,8448.64,2004-02-10,Shipped,1,Feb,2004,Classic Cars,S18_2238,Signal Collectibles Ltd.,2793 Furth Circle,Brisbane,CA,94217,USA,Large
+246,10271,50,100.0,4,9169.0,2004-07-20,Shipped,3,Jul,2004,Classic Cars,S18_2238,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Large
+247,10282,23,100.0,13,3238.63,2004-08-20,Shipped,3,Ago,2004,Classic Cars,S18_2238,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+248,10292,26,100.0,7,4554.94,2004-09-08,Shipped,3,Sep,2004,Classic Cars,S18_2238,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Medium
+249,10305,27,100.0,4,3934.44,2004-10-13,Shipped,4,Oct,2004,Classic Cars,S18_2238,Marta's Replicas Co.,39323 Spinnaker Dr.,Cambridge,MA,51247,USA,Medium
+250,10324,47,100.0,8,7207.45,2004-11-05,Shipped,4,Nov,2004,Classic Cars,S18_2238,Vitachrome Inc.,2678 Kingston Rd.,NYC,NY,10022,USA,Large
+251,10349,38,100.0,8,6719.54,2004-12-01,Shipped,4,Dec,2004,Classic Cars,S18_2238,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Medium
+252,10371,25,100.0,7,2602.25,2005-01-23,Shipped,1,Jan,2005,Classic Cars,S18_2238,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+253,10382,25,88.0,5,2200.0,2005-02-17,Shipped,1,Feb,2005,Classic Cars,S18_2238,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+254,10100,50,67.8,2,3390.0,2003-01-06,Shipped,1,Jan,2003,Vintage Cars,S18_2248,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,Medium
+255,10124,42,53.88,5,2262.96,2003-05-21,Shipped,2,Mai,2003,Vintage Cars,S18_2248,Signal Gift Stores,8489 Strong St.,Las Vegas,NV,83030,USA,Small
+256,10149,24,62.36,10,1496.64,2003-09-12,Shipped,3,Sep,2003,Vintage Cars,S18_2248,Signal Collectibles Ltd.,2793 Furth Circle,Brisbane,CA,94217,USA,Small
+257,10162,27,69.62,8,1879.74,2003-10-18,Shipped,4,Oct,2003,Vintage Cars,S18_2248,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Small
+258,10182,38,61.15,9,2323.7,2003-11-12,Shipped,4,Nov,2003,Vintage Cars,S18_2248,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+259,10204,23,71.44,3,1643.12,2003-12-02,Shipped,4,Dec,2003,Vintage Cars,S18_2248,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Small
+260,10312,30,61.15,16,1834.5,2004-10-21,Shipped,4,Oct,2004,Vintage Cars,S18_2248,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+261,10367,45,100.0,4,8884.8,2005-01-12,Resolved,1,Jan,2005,Vintage Cars,S18_2248,Toys4GrownUps.com,78934 Hillside Dr.,Pasadena,CA,90003,USA,Large
+262,10407,42,72.65,1,3051.3,2005-04-22,On Hold,2,Apr,2005,Vintage Cars,S18_2248,The Sharp Gifts Warehouse,3086 Ingle Ln.,San Jose,CA,94217,USA,Medium
+263,10127,45,100.0,14,6295.95,2003-06-03,Shipped,2,Jun,2003,Trucks and Buses,S18_2319,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Medium
+264,10195,35,100.0,9,3608.15,2003-11-25,Shipped,4,Nov,2003,Trucks and Buses,S18_2319,Mini Classics,3758 North Pendale Street,White Plains,NY,24067,USA,Medium
+265,10207,43,100.0,10,5752.54,2003-12-09,Shipped,4,Dec,2003,Trucks and Buses,S18_2319,Diecast Collectables,6251 Ingle Ln.,Boston,MA,51003,USA,Medium
+266,10229,26,100.0,4,3765.32,2004-03-11,Shipped,1,Mar,2004,Trucks and Buses,S18_2319,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+267,10271,50,100.0,8,5093.5,2004-07-20,Shipped,3,Jul,2004,Trucks and Buses,S18_2319,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+268,10281,48,100.0,4,5773.44,2004-08-19,Shipped,3,Ago,2004,Trucks and Buses,S18_2319,Diecast Classics Inc.,7586 Pompton St.,Allentown,PA,70267,USA,Medium
+269,10292,41,100.0,11,4528.86,2004-09-08,Shipped,3,Sep,2004,Trucks and Buses,S18_2319,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Medium
+270,10305,36,100.0,8,4816.08,2004-10-13,Shipped,4,Oct,2004,Trucks and Buses,S18_2319,Marta's Replicas Co.,39323 Spinnaker Dr.,Cambridge,MA,51247,USA,Medium
+271,10324,33,37.48,10,1236.84,2004-11-05,Shipped,4,Nov,2004,Trucks and Buses,S18_2319,Vitachrome Inc.,2678 Kingston Rd.,NYC,NY,10022,USA,Small
+272,10349,38,100.0,7,5223.48,2004-12-01,Shipped,4,Dec,2004,Trucks and Buses,S18_2319,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Medium
+273,10124,42,100.0,3,4431.84,2003-05-21,Shipped,2,Mai,2003,Vintage Cars,S18_2325,Signal Gift Stores,8489 Strong St.,Las Vegas,NV,83030,USA,Medium
+274,10149,33,100.0,8,4950.33,2003-09-12,Shipped,3,Sep,2003,Vintage Cars,S18_2325,Signal Collectibles Ltd.,2793 Furth Circle,Brisbane,CA,94217,USA,Medium
+275,10162,38,100.0,6,4299.7,2003-10-18,Shipped,4,Oct,2003,Vintage Cars,S18_2325,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Medium
+276,10182,20,100.0,7,2212.0,2003-11-12,Shipped,4,Nov,2003,Vintage Cars,S18_2325,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+277,10204,26,100.0,1,3206.32,2003-12-02,Shipped,4,Dec,2003,Vintage Cars,S18_2325,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Medium
+278,10243,47,100.0,2,6154.18,2004-04-26,Shipped,2,Apr,2004,Vintage Cars,S18_2325,Diecast Collectables,6251 Ingle Ln.,Boston,MA,51003,USA,Medium
+279,10312,31,100.0,14,4729.36,2004-10-21,Shipped,4,Oct,2004,Vintage Cars,S18_2325,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+280,10322,50,100.0,6,12536.5,2004-11-04,Shipped,4,Nov,2004,Vintage Cars,S18_2325,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,Large
+281,10367,27,100.0,5,4196.07,2005-01-12,Resolved,1,Jan,2005,Vintage Cars,S18_2325,Toys4GrownUps.com,78934 Hillside Dr.,Pasadena,CA,90003,USA,Medium
+282,10390,31,98.99,16,3068.69,2005-03-04,Shipped,1,Mar,2005,Vintage Cars,S18_2325,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+283,10140,46,61.99,2,2851.54,2003-07-24,Shipped,3,Jul,2003,Trucks and Buses,S18_2432,Technics Stores Inc.,9408 Furth Circle,Burlingame,CA,94217,USA,Small
+284,10207,37,69.89,13,2585.93,2003-12-09,Shipped,4,Dec,2003,Trucks and Buses,S18_2432,Diecast Collectables,6251 Ingle Ln.,Boston,MA,51003,USA,Small
+285,10229,28,59.55,7,1667.4,2004-03-11,Shipped,1,Mar,2004,Trucks and Buses,S18_2432,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+286,10271,25,69.28,11,1732.0,2004-07-20,Shipped,3,Jul,2004,Trucks and Buses,S18_2432,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+287,10281,29,57.73,7,1674.17,2004-08-19,Shipped,3,Ago,2004,Trucks and Buses,S18_2432,Diecast Classics Inc.,7586 Pompton St.,Allentown,PA,70267,USA,Small
+288,10305,41,53.48,11,2192.68,2004-10-13,Shipped,4,Oct,2004,Trucks and Buses,S18_2432,Marta's Replicas Co.,39323 Spinnaker Dr.,Cambridge,MA,51247,USA,Small
+289,10322,35,61.21,11,2142.35,2004-11-04,Shipped,4,Nov,2004,Trucks and Buses,S18_2432,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,Small
+290,10357,41,61.99,7,2541.59,2004-12-10,Shipped,4,Dec,2004,Trucks and Buses,S18_2432,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+291,10381,35,48.62,7,1701.7,2005-02-17,Shipped,1,Feb,2005,Trucks and Buses,S18_2432,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Small
+292,10145,30,85.32,14,2559.6,2003-08-25,Shipped,3,Ago,2003,Planes,S18_2581,Toys4GrownUps.com,78934 Hillside Dr.,Pasadena,CA,90003,USA,Small
+293,10168,21,70.96,9,1490.16,2003-10-28,Shipped,4,Oct,2003,Planes,S18_2581,Technics Stores Inc.,9408 Furth Circle,Burlingame,CA,94217,USA,Small
+294,10250,27,98.84,4,2668.68,2004-05-11,Shipped,2,Mai,2004,Planes,S18_2581,The Sharp Gifts Warehouse,3086 Ingle Ln.,San Jose,CA,94217,USA,Small
+295,10263,33,86.17,10,2843.61,2004-06-28,Shipped,2,Jun,2004,Planes,S18_2581,Gift Depot Inc.,25593 South Bay Ln.,Bridgewater,CT,97562,USA,Small
+296,10308,27,82.79,7,2235.33,2004-10-15,Shipped,4,Oct,2004,Planes,S18_2581,Mini Classics,3758 North Pendale Street,White Plains,NY,24067,USA,Small
+297,10318,31,100.0,9,3116.43,2004-11-02,Shipped,4,Nov,2004,Planes,S18_2581,Diecast Classics Inc.,7586 Pompton St.,Allentown,PA,70267,USA,Medium
+298,10353,27,100.0,1,3515.67,2004-12-04,Shipped,4,Dec,2004,Planes,S18_2581,Gift Ideas Corp.,2440 Pompton St.,Glendale,CT,97561,USA,Medium
+299,10401,42,76.03,3,3193.26,2005-04-03,On Hold,2,Apr,2005,Planes,S18_2581,Tekni Collectables Inc.,7476 Moss Rd.,Newark,NJ,94019,USA,Medium
+300,10107,29,70.87,6,2055.23,2003-02-24,Shipped,1,Feb,2003,Motorcycles,S18_2625,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Small
+301,10145,30,49.67,10,1490.1,2003-08-25,Shipped,3,Ago,2003,Motorcycles,S18_2625,Toys4GrownUps.com,78934 Hillside Dr.,Pasadena,CA,90003,USA,Small
+302,10159,42,51.48,18,2162.16,2003-10-10,Shipped,4,Oct,2003,Motorcycles,S18_2625,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Small
+303,10168,46,61.18,5,2814.28,2003-10-28,Shipped,4,Oct,2003,Motorcycles,S18_2625,Technics Stores Inc.,9408 Furth Circle,Burlingame,CA,94217,USA,Small
+304,10201,30,64.81,6,1944.3,2003-12-01,Shipped,4,Dec,2003,Motorcycles,S18_2625,Mini Wheels Co.,5557 North Pendale Street,San Francisco,CA,,USA,Small
+305,10236,23,55.72,2,1281.56,2004-04-03,Shipped,2,Apr,2004,Motorcycles,S18_2625,Motor Mint Distributors Inc.,11328 Douglas Av.,Philadelphia,PA,71270,USA,Small
+306,10251,29,61.18,6,1774.22,2004-05-18,Shipped,2,Mai,2004,Motorcycles,S18_2625,Tekni Collectables Inc.,7476 Moss Rd.,Newark,NJ,94019,USA,Small
+307,10263,34,58.75,6,1997.5,2004-06-28,Shipped,2,Jun,2004,Motorcycles,S18_2625,Gift Depot Inc.,25593 South Bay Ln.,Bridgewater,CT,97562,USA,Small
+308,10285,20,49.06,10,981.2,2004-08-27,Shipped,3,Ago,2004,Motorcycles,S18_2625,Marta's Replicas Co.,39323 Spinnaker Dr.,Cambridge,MA,51247,USA,Small
+309,10308,34,52.09,3,1771.06,2004-10-15,Shipped,4,Oct,2004,Motorcycles,S18_2625,Mini Classics,3758 North Pendale Street,White Plains,NY,24067,USA,Small
+310,10318,42,52.7,5,2213.4,2004-11-02,Shipped,4,Nov,2004,Motorcycles,S18_2625,Diecast Classics Inc.,7586 Pompton St.,Allentown,PA,70267,USA,Small
+311,10329,38,100.0,12,5266.04,2004-11-15,Shipped,4,Nov,2004,Motorcycles,S18_2625,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Medium
+312,10362,23,49.67,3,1142.41,2005-01-05,Shipped,1,Jan,2005,Motorcycles,S18_2625,Technics Stores Inc.,9408 Furth Circle,Burlingame,CA,94217,USA,Small
+313,10149,23,100.0,5,4230.62,2003-09-12,Shipped,3,Sep,2003,Vintage Cars,S18_2795,Signal Collectibles Ltd.,2793 Furth Circle,Brisbane,CA,94217,USA,Medium
+314,10162,48,100.0,3,7209.12,2003-10-18,Shipped,4,Oct,2003,Vintage Cars,S18_2795,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Large
+315,10182,21,100.0,4,3047.73,2003-11-12,Shipped,4,Nov,2003,Vintage Cars,S18_2795,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+316,10312,25,100.0,11,3881.25,2004-10-21,Shipped,4,Oct,2004,Vintage Cars,S18_2795,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+317,10322,36,100.0,2,5797.44,2004-11-04,Shipped,4,Nov,2004,Vintage Cars,S18_2795,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,Medium
+318,10367,32,94.79,7,3033.28,2005-01-12,Resolved,1,Jan,2005,Vintage Cars,S18_2795,Toys4GrownUps.com,78934 Hillside Dr.,Pasadena,CA,90003,USA,Medium
+319,10390,26,78.11,7,2030.86,2005-03-04,Shipped,1,Mar,2005,Vintage Cars,S18_2795,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+320,10421,35,100.0,1,5433.75,2005-05-29,In Process,2,Mai,2005,Vintage Cars,S18_2795,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+321,10109,26,100.0,1,3157.44,2003-03-10,Shipped,1,Mar,2003,Classic Cars,S18_2870,Motor Mint Distributors Inc.,11328 Douglas Av.,Philadelphia,PA,71270,USA,Medium
+322,10172,39,100.0,7,6023.16,2003-11-05,Shipped,4,Nov,2003,Classic Cars,S18_2870,Gift Depot Inc.,25593 South Bay Ln.,Bridgewater,CT,97562,USA,Medium
+323,10192,38,100.0,8,4965.84,2003-11-20,Shipped,4,Nov,2003,Classic Cars,S18_2870,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,Medium
+324,10204,27,100.0,14,4169.88,2003-12-02,Shipped,4,Dec,2003,Classic Cars,S18_2870,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Medium
+325,10226,24,100.0,5,3231.36,2004-02-26,Shipped,1,Feb,2004,Classic Cars,S18_2870,Collectable Mini Designs Co.,361 Furth Circle,San Diego,CA,91217,USA,Medium
+326,10278,39,100.0,3,4324.32,2004-08-06,Shipped,3,Ago,2004,Classic Cars,S18_2870,Signal Gift Stores,8489 Strong St.,Las Vegas,NV,83030,USA,Medium
+327,10321,27,100.0,7,2851.2,2004-11-04,Shipped,4,Nov,2004,Classic Cars,S18_2870,FunGiftIdeas.com,1785 First Street,New Bedford,MA,50553,USA,Small
+328,10331,26,64.9,10,1687.4,2004-11-17,Shipped,4,Nov,2004,Classic Cars,S18_2870,Motor Mint Distributors Inc.,11328 Douglas Av.,Philadelphia,PA,71270,USA,Small
+329,10407,41,100.0,12,6386.16,2005-04-22,On Hold,2,Apr,2005,Classic Cars,S18_2870,The Sharp Gifts Warehouse,3086 Ingle Ln.,San Jose,CA,94217,USA,Medium
+330,10163,31,100.0,2,3329.09,2003-10-20,Shipped,4,Oct,2003,Vintage Cars,S18_2949,Classic Legends Inc.,5905 Pompton St.,NYC,NY,10022,USA,Medium
+331,10183,37,89.15,9,3298.55,2003-11-13,Shipped,4,Nov,2003,Vintage Cars,S18_2949,"Classic Gift Ideas, Inc",782 First Street,Philadelphia,PA,71270,USA,Medium
+332,10215,49,100.0,4,5510.05,2004-01-29,Shipped,1,Jan,2004,Vintage Cars,S18_2949,West Coast Collectables Co.,3675 Furth Circle,Burbank,CA,94019,USA,Medium
+333,10228,24,100.0,3,2504.4,2004-03-10,Shipped,1,Mar,2004,Vintage Cars,S18_2949,Cambridge Collectables Co.,4658 Baden Av.,Cambridge,MA,51247,USA,Small
+334,10257,50,88.14,1,4407.0,2004-06-14,Shipped,2,Jun,2004,Vintage Cars,S18_2949,The Sharp Gifts Warehouse,3086 Ingle Ln.,San Jose,CA,94217,USA,Medium
+335,10312,37,100.0,4,3711.1,2004-10-21,Shipped,4,Oct,2004,Vintage Cars,S18_2949,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+336,10322,33,100.0,12,3524.73,2004-11-04,Shipped,4,Nov,2004,Vintage Cars,S18_2949,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,Medium
+337,10333,31,90.17,5,2795.27,2004-11-18,Shipped,4,Nov,2004,Vintage Cars,S18_2949,Mini Wheels Co.,5557 North Pendale Street,San Francisco,CA,,USA,Small
+338,10357,41,87.13,6,3572.33,2004-12-10,Shipped,4,Dec,2004,Vintage Cars,S18_2949,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+339,10369,42,100.0,1,4581.36,2005-01-20,Shipped,1,Jan,2005,Vintage Cars,S18_2949,Collectables For Less Inc.,7825 Douglas Av.,Brickhaven,MA,58339,USA,Medium
+340,10381,41,100.0,8,4319.76,2005-02-17,Shipped,1,Feb,2005,Vintage Cars,S18_2949,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Medium
+341,10111,28,64.33,2,1801.24,2003-03-25,Shipped,1,Mar,2003,Vintage Cars,S18_2957,Mini Wheels Co.,5557 North Pendale Street,San Francisco,CA,,USA,Small
+342,10163,48,69.96,4,3358.08,2003-10-20,Shipped,4,Oct,2003,Vintage Cars,S18_2957,Classic Legends Inc.,5905 Pompton St.,NYC,NY,10022,USA,Medium
+343,10183,39,68.08,11,2655.12,2003-11-13,Shipped,4,Nov,2003,Vintage Cars,S18_2957,"Classic Gift Ideas, Inc",782 First Street,Philadelphia,PA,71270,USA,Small
+344,10215,31,58.71,6,1820.01,2004-01-29,Shipped,1,Jan,2004,Vintage Cars,S18_2957,West Coast Collectables Co.,3675 Furth Circle,Burbank,CA,94019,USA,Small
+345,10228,45,63.71,5,2866.95,2004-03-10,Shipped,1,Mar,2004,Vintage Cars,S18_2957,Cambridge Collectables Co.,4658 Baden Av.,Cambridge,MA,51247,USA,Small
+346,10257,49,53.72,3,2632.28,2004-06-14,Shipped,2,Jun,2004,Vintage Cars,S18_2957,The Sharp Gifts Warehouse,3086 Ingle Ln.,San Jose,CA,94217,USA,Small
+347,10312,35,53.72,6,1880.2,2004-10-21,Shipped,4,Oct,2004,Vintage Cars,S18_2957,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+348,10322,41,29.87,13,1224.67,2004-11-04,Shipped,4,Nov,2004,Vintage Cars,S18_2957,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,Small
+349,10357,49,70.58,5,3458.42,2004-12-10,Shipped,4,Dec,2004,Vintage Cars,S18_2957,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+350,10369,28,44.21,6,1237.88,2005-01-20,Shipped,1,Jan,2005,Vintage Cars,S18_2957,Collectables For Less Inc.,7825 Douglas Av.,Brickhaven,MA,58339,USA,Small
+351,10381,40,68.08,4,2723.2,2005-02-17,Shipped,1,Feb,2005,Vintage Cars,S18_2957,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Small
+352,10130,40,96.34,2,3853.6,2003-06-16,Shipped,2,Jun,2003,Ships,S18_3029,Auto-Moto Classics Inc.,16780 Pompton St.,Brickhaven,MA,58339,USA,Medium
+353,10143,46,74.84,13,3442.64,2003-08-10,Shipped,3,Ago,2003,Ships,S18_3029,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,MA,50553,USA,Medium
+354,10209,28,100.0,6,2817.92,2004-01-09,Shipped,1,Jan,2004,Ships,S18_3029,"Men 'R' US Retailers, Ltd.",6047 Douglas Av.,Los Angeles,CA,,USA,Small
+355,10222,49,94.62,10,4636.38,2004-02-19,Shipped,1,Feb,2004,Ships,S18_3029,Collectable Mini Designs Co.,361 Furth Circle,San Diego,CA,91217,USA,Medium
+356,10248,21,73.98,1,1553.58,2004-05-07,Cancelled,2,Mai,2004,Ships,S18_3029,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Small
+357,10307,31,83.44,7,2586.64,2004-10-14,Shipped,4,Oct,2004,Ships,S18_3029,"Classic Gift Ideas, Inc",782 First Street,Philadelphia,PA,71270,USA,Small
+358,10400,30,74.84,7,2245.2,2005-04-01,Shipped,2,Apr,2005,Ships,S18_3029,The Sharp Gifts Warehouse,3086 Ingle Ln.,San Jose,CA,94217,USA,Small
+359,10414,44,73.98,1,3255.12,2005-05-06,On Hold,2,Mai,2005,Ships,S18_3029,Gifts4AllAges.com,8616 Spinnaker Dr.,Boston,MA,51003,USA,Medium
+360,10111,43,100.0,1,4818.15,2003-03-25,Shipped,1,Mar,2003,Vintage Cars,S18_3136,Mini Wheels Co.,5557 North Pendale Street,San Francisco,CA,,USA,Medium
+361,10163,40,100.0,3,4900.8,2003-10-20,Shipped,4,Oct,2003,Vintage Cars,S18_3136,Classic Legends Inc.,5905 Pompton St.,NYC,NY,10022,USA,Medium
+362,10183,22,100.0,10,2488.2,2003-11-13,Shipped,4,Nov,2003,Vintage Cars,S18_3136,"Classic Gift Ideas, Inc",782 First Street,Philadelphia,PA,71270,USA,Small
+363,10215,49,100.0,5,5285.14,2004-01-29,Shipped,1,Jan,2004,Vintage Cars,S18_3136,West Coast Collectables Co.,3675 Furth Circle,Burbank,CA,94019,USA,Medium
+364,10228,31,100.0,4,3181.53,2004-03-10,Shipped,1,Mar,2004,Vintage Cars,S18_3136,Cambridge Collectables Co.,4658 Baden Av.,Cambridge,MA,51247,USA,Medium
+365,10257,37,84.82,2,3138.34,2004-06-14,Shipped,2,Jun,2004,Vintage Cars,S18_3136,The Sharp Gifts Warehouse,3086 Ingle Ln.,San Jose,CA,94217,USA,Medium
+366,10312,38,100.0,5,4457.02,2004-10-21,Shipped,4,Oct,2004,Vintage Cars,S18_3136,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+367,10322,48,47.04,7,2257.92,2004-11-04,Shipped,4,Nov,2004,Vintage Cars,S18_3136,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,Small
+368,10357,44,100.0,4,5160.76,2004-12-10,Shipped,4,Dec,2004,Vintage Cars,S18_3136,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+369,10369,21,94.22,5,1978.62,2005-01-20,Shipped,1,Jan,2005,Vintage Cars,S18_3136,Collectables For Less Inc.,7825 Douglas Av.,Brickhaven,MA,58339,USA,Small
+370,10381,35,100.0,5,4288.2,2005-02-17,Shipped,1,Feb,2005,Vintage Cars,S18_3136,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Medium
+371,10142,47,100.0,8,6034.33,2003-08-08,Shipped,3,Ago,2003,Vintage Cars,S18_3140,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+372,10166,43,100.0,2,6930.74,2003-10-21,Shipped,4,Oct,2003,Vintage Cars,S18_3140,FunGiftIdeas.com,1785 First Street,New Bedford,MA,50553,USA,Medium
+373,10185,28,100.0,9,3442.04,2003-11-14,Shipped,4,Nov,2003,Vintage Cars,S18_3140,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,MA,50553,USA,Medium
+374,10196,49,100.0,1,6893.81,2003-11-26,Shipped,4,Nov,2003,Vintage Cars,S18_3140,Super Scale Inc.,567 North Pendale Street,New Haven,CT,97823,USA,Medium
+375,10248,32,100.0,12,3802.56,2004-05-07,Cancelled,2,Mai,2004,Vintage Cars,S18_3140,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Medium
+376,10282,43,100.0,1,6695.53,2004-08-20,Shipped,3,Ago,2004,Vintage Cars,S18_3140,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+377,10396,33,100.0,2,5273.73,2005-03-23,Shipped,1,Mar,2005,Vintage Cars,S18_3140,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+378,10414,41,100.0,12,4872.03,2005-05-06,On Hold,2,Mai,2005,Vintage Cars,S18_3140,Gifts4AllAges.com,8616 Spinnaker Dr.,Boston,MA,51003,USA,Medium
+379,10109,46,100.0,5,8257.0,2003-03-10,Shipped,1,Mar,2003,Classic Cars,S18_3232,Motor Mint Distributors Inc.,11328 Douglas Av.,Philadelphia,PA,71270,USA,Large
+380,10127,22,100.0,15,3837.24,2003-06-03,Shipped,2,Jun,2003,Classic Cars,S18_3232,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Medium
+381,10160,20,100.0,1,3996.4,2003-10-11,Shipped,4,Oct,2003,Classic Cars,S18_3232,"Men 'R' US Retailers, Ltd.",6047 Douglas Av.,Los Angeles,CA,,USA,Medium
+382,10192,26,100.0,12,3918.46,2003-11-20,Shipped,4,Nov,2003,Classic Cars,S18_3232,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,Medium
+383,10195,50,100.0,10,7620.5,2003-11-25,Shipped,4,Nov,2003,Classic Cars,S18_3232,Mini Classics,3758 North Pendale Street,White Plains,NY,24067,USA,Large
+384,10207,25,100.0,11,3937.25,2003-12-09,Shipped,4,Dec,2003,Classic Cars,S18_3232,Diecast Collectables,6251 Ingle Ln.,Boston,MA,51003,USA,Medium
+385,10229,22,100.0,5,4172.52,2004-03-11,Shipped,1,Mar,2004,Classic Cars,S18_3232,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+386,10271,20,100.0,9,3928.6,2004-07-20,Shipped,3,Jul,2004,Classic Cars,S18_3232,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+387,10278,42,100.0,7,6401.22,2004-08-06,Shipped,3,Ago,2004,Classic Cars,S18_3232,Signal Gift Stores,8489 Strong St.,Las Vegas,NV,83030,USA,Medium
+388,10281,25,100.0,5,4191.25,2004-08-19,Shipped,3,Ago,2004,Classic Cars,S18_3232,Diecast Classics Inc.,7586 Pompton St.,Allentown,PA,70267,USA,Medium
+389,10292,21,100.0,12,2844.87,2004-09-08,Shipped,3,Sep,2004,Classic Cars,S18_3232,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Small
+390,10305,37,100.0,9,7455.87,2004-10-13,Shipped,4,Oct,2004,Classic Cars,S18_3232,Marta's Replicas Co.,39323 Spinnaker Dr.,Cambridge,MA,51247,USA,Large
+391,10321,33,100.0,11,5700.09,2004-11-04,Shipped,4,Nov,2004,Classic Cars,S18_3232,FunGiftIdeas.com,1785 First Street,New Bedford,MA,50553,USA,Medium
+392,10324,27,100.0,12,3155.49,2004-11-05,Shipped,4,Nov,2004,Classic Cars,S18_3232,Vitachrome Inc.,2678 Kingston Rd.,NYC,NY,10022,USA,Medium
+393,10331,27,100.0,11,4170.69,2004-11-17,Shipped,4,Nov,2004,Classic Cars,S18_3232,Motor Mint Distributors Inc.,11328 Douglas Av.,Philadelphia,PA,71270,USA,Medium
+394,10349,48,100.0,6,7396.8,2004-12-01,Shipped,4,Dec,2004,Classic Cars,S18_3232,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Large
+395,10142,22,97.81,10,2151.82,2003-08-08,Shipped,3,Ago,2003,Trains,S18_3259,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+396,10185,49,80.67,11,3952.83,2003-11-14,Shipped,4,Nov,2003,Trains,S18_3259,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,MA,50553,USA,Medium
+397,10196,35,100.0,3,3564.75,2003-11-26,Shipped,4,Nov,2003,Trains,S18_3259,Super Scale Inc.,567 North Pendale Street,New Haven,CT,97823,USA,Medium
+398,10248,42,100.0,14,5082.42,2004-05-07,Cancelled,2,Mai,2004,Trains,S18_3259,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Medium
+399,10282,36,100.0,3,4174.92,2004-08-20,Shipped,3,Ago,2004,Trains,S18_3259,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+400,10396,24,89.75,4,2154.0,2005-03-23,Shipped,1,Mar,2005,Trains,S18_3259,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+401,10414,48,100.0,14,5808.48,2005-05-06,On Hold,2,Mai,2005,Trains,S18_3259,Gifts4AllAges.com,8616 Spinnaker Dr.,Boston,MA,51003,USA,Medium
+402,10135,45,78.0,10,3510.0,2003-07-02,Shipped,3,Jul,2003,Classic Cars,S18_3278,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+403,10147,36,86.04,10,3097.44,2003-09-05,Shipped,3,Sep,2003,Classic Cars,S18_3278,Collectables For Less Inc.,7825 Douglas Av.,Brickhaven,MA,58339,USA,Medium
+404,10159,21,81.21,5,1705.41,2003-10-10,Shipped,4,Oct,2003,Classic Cars,S18_3278,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Small
+405,10276,38,69.96,6,2658.48,2004-08-02,Shipped,3,Ago,2004,Classic Cars,S18_3278,Online Mini Collectables,7635 Spinnaker Dr.,Brickhaven,MA,58339,USA,Small
+406,10319,46,73.98,1,3403.08,2004-11-03,Shipped,4,Nov,2004,Classic Cars,S18_3278,Microscale Inc.,5290 North Pendale Street,NYC,NY,10022,USA,Medium
+407,10329,38,59.1,10,2245.8,2004-11-15,Shipped,4,Nov,2004,Classic Cars,S18_3278,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Small
+408,10390,40,100.0,9,5491.6,2005-03-04,Shipped,1,Mar,2005,Classic Cars,S18_3278,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+409,10111,39,100.0,4,4178.85,2003-03-25,Shipped,1,Mar,2003,Vintage Cars,S18_3320,Mini Wheels Co.,5557 North Pendale Street,San Francisco,CA,,USA,Medium
+410,10149,42,94.25,2,3958.5,2003-09-12,Shipped,3,Sep,2003,Vintage Cars,S18_3320,Signal Collectibles Ltd.,2793 Furth Circle,Brisbane,CA,94217,USA,Medium
+411,10163,43,100.0,6,4991.44,2003-10-20,Shipped,4,Oct,2003,Vintage Cars,S18_3320,Classic Legends Inc.,5905 Pompton St.,NYC,NY,10022,USA,Medium
+412,10182,33,86.31,1,2848.23,2003-11-12,Shipped,4,Nov,2003,Vintage Cars,S18_3320,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+413,10215,41,100.0,8,4555.92,2004-01-29,Shipped,1,Jan,2004,Vintage Cars,S18_3320,West Coast Collectables Co.,3675 Furth Circle,Burbank,CA,94019,USA,Medium
+414,10257,26,89.29,5,2321.54,2004-06-14,Shipped,2,Jun,2004,Vintage Cars,S18_3320,The Sharp Gifts Warehouse,3086 Ingle Ln.,San Jose,CA,94217,USA,Small
+415,10290,26,96.23,2,2501.98,2004-09-07,Shipped,3,Sep,2004,Vintage Cars,S18_3320,Auto-Moto Classics Inc.,16780 Pompton St.,Brickhaven,MA,58339,USA,Small
+416,10312,33,100.0,8,3535.95,2004-10-21,Shipped,4,Oct,2004,Vintage Cars,S18_3320,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+417,10333,46,100.0,2,11336.7,2004-11-18,Shipped,4,Nov,2004,Vintage Cars,S18_3320,Mini Wheels Co.,5557 North Pendale Street,San Francisco,CA,,USA,Large
+418,10357,25,100.0,3,2604.25,2004-12-10,Shipped,4,Dec,2004,Vintage Cars,S18_3320,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+419,10369,45,73.08,4,3288.6,2005-01-20,Shipped,1,Jan,2005,Vintage Cars,S18_3320,Collectables For Less Inc.,7825 Douglas Av.,Brickhaven,MA,58339,USA,Medium
+420,10382,50,100.0,7,8935.5,2005-02-17,Shipped,1,Feb,2005,Vintage Cars,S18_3320,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Large
+421,10135,42,100.0,9,5432.7,2003-07-02,Shipped,3,Jul,2003,Classic Cars,S18_3482,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+422,10147,37,100.0,9,4405.22,2003-09-05,Shipped,3,Sep,2003,Classic Cars,S18_3482,Collectables For Less Inc.,7825 Douglas Av.,Brickhaven,MA,58339,USA,Medium
+423,10159,25,100.0,4,3638.0,2003-10-10,Shipped,4,Oct,2003,Classic Cars,S18_3482,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Medium
+424,10276,30,100.0,5,3924.6,2004-08-02,Shipped,3,Ago,2004,Classic Cars,S18_3482,Online Mini Collectables,7635 Spinnaker Dr.,Brickhaven,MA,58339,USA,Medium
+425,10390,50,100.0,1,7397.0,2005-03-04,Shipped,1,Mar,2005,Classic Cars,S18_3482,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Large
+426,10109,47,100.0,2,6241.6,2003-03-10,Shipped,1,Mar,2003,Classic Cars,S18_3685,Motor Mint Distributors Inc.,11328 Douglas Av.,Philadelphia,PA,71270,USA,Medium
+427,10172,48,100.0,8,5493.12,2003-11-05,Shipped,4,Nov,2003,Classic Cars,S18_3685,Gift Depot Inc.,25593 South Bay Ln.,Bridgewater,CT,97562,USA,Medium
+428,10192,45,100.0,9,5340.6,2003-11-20,Shipped,4,Nov,2003,Classic Cars,S18_3685,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,Medium
+429,10204,35,100.0,15,5735.8,2003-12-02,Shipped,4,Dec,2003,Classic Cars,S18_3685,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Medium
+430,10226,46,100.0,6,7343.9,2004-02-26,Shipped,1,Feb,2004,Classic Cars,S18_3685,Collectable Mini Designs Co.,361 Furth Circle,San Diego,CA,91217,USA,Large
+431,10278,31,100.0,4,4116.8,2004-08-06,Shipped,3,Ago,2004,Classic Cars,S18_3685,Signal Gift Stores,8489 Strong St.,Las Vegas,NV,83030,USA,Medium
+432,10321,28,100.0,8,4232.76,2004-11-04,Shipped,4,Nov,2004,Classic Cars,S18_3685,FunGiftIdeas.com,1785 First Street,New Bedford,MA,50553,USA,Medium
+433,10331,26,67.91,12,1765.66,2004-11-17,Shipped,4,Nov,2004,Classic Cars,S18_3685,Motor Mint Distributors Inc.,11328 Douglas Av.,Philadelphia,PA,71270,USA,Small
+434,10367,46,100.0,6,4808.38,2005-01-12,Resolved,1,Jan,2005,Classic Cars,S18_3685,Toys4GrownUps.com,78934 Hillside Dr.,Pasadena,CA,90003,USA,Medium
+435,10135,45,50.36,13,2266.2,2003-07-02,Shipped,3,Jul,2003,Motorcycles,S18_3782,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+436,10146,47,67.14,2,3155.58,2003-09-03,Shipped,3,Sep,2003,Motorcycles,S18_3782,Gift Ideas Corp.,2440 Pompton St.,Glendale,CT,97561,USA,Medium
+437,10159,21,64.66,8,1357.86,2003-10-10,Shipped,4,Oct,2003,Motorcycles,S18_3782,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Small
+438,10237,26,52.22,1,1357.72,2004-04-05,Shipped,2,Apr,2004,Motorcycles,S18_3782,Vitachrome Inc.,2678 Kingston Rd.,NYC,NY,10022,USA,Small
+439,10264,48,54.71,3,2626.08,2004-06-30,Shipped,2,Jun,2004,Motorcycles,S18_3782,Gifts4AllAges.com,8616 Spinnaker Dr.,Boston,MA,51003,USA,Small
+440,10276,33,50.36,9,1661.88,2004-08-02,Shipped,3,Ago,2004,Motorcycles,S18_3782,Online Mini Collectables,7635 Spinnaker Dr.,Brickhaven,MA,58339,USA,Small
+441,10319,44,59.06,4,2598.64,2004-11-03,Shipped,4,Nov,2004,Motorcycles,S18_3782,Microscale Inc.,5290 North Pendale Street,NYC,NY,10022,USA,Small
+442,10390,36,100.0,2,5079.96,2005-03-04,Shipped,1,Mar,2005,Motorcycles,S18_3782,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+443,10130,33,100.0,1,3423.75,2003-06-16,Shipped,2,Jun,2003,Vintage Cars,S18_3856,Auto-Moto Classics Inc.,16780 Pompton St.,Brickhaven,MA,58339,USA,Medium
+444,10143,34,100.0,12,3455.76,2003-08-10,Shipped,3,Ago,2003,Vintage Cars,S18_3856,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,MA,50553,USA,Medium
+445,10209,20,100.0,5,2498.6,2004-01-09,Shipped,1,Jan,2004,Vintage Cars,S18_3856,"Men 'R' US Retailers, Ltd.",6047 Douglas Av.,Los Angeles,CA,,USA,Small
+446,10222,45,85.75,9,3858.75,2004-02-19,Shipped,1,Feb,2004,Vintage Cars,S18_3856,Collectable Mini Designs Co.,361 Furth Circle,San Diego,CA,91217,USA,Medium
+447,10249,46,100.0,5,5600.5,2004-05-08,Shipped,2,Mai,2004,Vintage Cars,S18_3856,Cambridge Collectables Co.,4658 Baden Av.,Cambridge,MA,51247,USA,Medium
+448,10307,48,86.81,6,4166.88,2004-10-14,Shipped,4,Oct,2004,Vintage Cars,S18_3856,"Classic Gift Ideas, Inc",782 First Street,Philadelphia,PA,71270,USA,Medium
+449,10400,58,100.0,6,7307.42,2005-04-01,Shipped,2,Apr,2005,Vintage Cars,S18_3856,The Sharp Gifts Warehouse,3086 Ingle Ln.,San Jose,CA,94217,USA,Large
+450,10127,25,100.0,5,3447.0,2003-06-03,Shipped,2,Jun,2003,Classic Cars,S18_4027,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Medium
+451,10142,24,100.0,15,3791.52,2003-08-08,Shipped,3,Ago,2003,Classic Cars,S18_4027,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+452,10185,39,100.0,16,5096.91,2003-11-14,Shipped,4,Nov,2003,Classic Cars,S18_4027,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,MA,50553,USA,Medium
+453,10196,27,100.0,8,4537.08,2003-11-26,Shipped,4,Nov,2003,Classic Cars,S18_4027,Super Scale Inc.,567 North Pendale Street,New Haven,CT,97823,USA,Medium
+454,10207,40,100.0,1,6146.8,2003-12-09,Shipped,4,Dec,2003,Classic Cars,S18_4027,Diecast Collectables,6251 Ingle Ln.,Boston,MA,51003,USA,Medium
+455,10272,25,100.0,5,3734.0,2004-07-20,Shipped,3,Jul,2004,Classic Cars,S18_4027,Diecast Classics Inc.,7586 Pompton St.,Allentown,PA,70267,USA,Medium
+456,10282,31,100.0,8,4674.8,2004-08-20,Shipped,3,Ago,2004,Classic Cars,S18_4027,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+457,10292,44,100.0,2,7140.76,2004-09-08,Shipped,3,Sep,2004,Classic Cars,S18_4027,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Large
+458,10324,49,100.0,13,5379.71,2004-11-05,Shipped,4,Nov,2004,Classic Cars,S18_4027,Vitachrome Inc.,2678 Kingston Rd.,NYC,NY,10022,USA,Medium
+459,10337,36,100.0,3,5679.36,2004-11-21,Shipped,4,Nov,2004,Classic Cars,S18_4027,Classic Legends Inc.,5905 Pompton St.,NYC,NY,10022,USA,Medium
+460,10349,34,100.0,5,4394.84,2004-12-01,Shipped,4,Dec,2004,Classic Cars,S18_4027,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Medium
+461,10413,49,100.0,5,6896.75,2005-05-05,Shipped,2,Mai,2005,Classic Cars,S18_4027,Gift Depot Inc.,25593 South Bay Ln.,Bridgewater,CT,97562,USA,Medium
+462,10100,22,86.51,4,1903.22,2003-01-06,Shipped,1,Jan,2003,Vintage Cars,S18_4409,Online Diecast Creations Co.,2304 Long Airport Avenue,Nashua,NH,62005,USA,Small
+463,10124,36,85.59,7,3081.24,2003-05-21,Shipped,2,Mai,2003,Vintage Cars,S18_4409,Signal Gift Stores,8489 Strong St.,Las Vegas,NV,83030,USA,Medium
+464,10162,39,100.0,10,3912.09,2003-10-18,Shipped,4,Oct,2003,Vintage Cars,S18_4409,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Medium
+465,10182,36,100.0,11,3942.72,2003-11-12,Shipped,4,Nov,2003,Vintage Cars,S18_4409,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+466,10204,29,85.59,5,2482.11,2003-12-02,Shipped,4,Dec,2003,Vintage Cars,S18_4409,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Small
+467,10367,43,62.72,8,2696.96,2005-01-12,Resolved,1,Jan,2005,Vintage Cars,S18_4409,Toys4GrownUps.com,78934 Hillside Dr.,Pasadena,CA,90003,USA,Small
+468,10407,6,90.19,3,541.14,2005-04-22,On Hold,2,Apr,2005,Vintage Cars,S18_4409,The Sharp Gifts Warehouse,3086 Ingle Ln.,San Jose,CA,94217,USA,Small
+469,10142,24,70.22,7,1685.28,2003-08-08,Shipped,3,Ago,2003,Vintage Cars,S18_4522,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+470,10166,26,73.73,1,1916.98,2003-10-21,Shipped,4,Oct,2003,Vintage Cars,S18_4522,FunGiftIdeas.com,1785 First Street,New Bedford,MA,50553,USA,Small
+471,10185,47,77.24,8,3630.28,2003-11-14,Shipped,4,Nov,2003,Vintage Cars,S18_4522,Mini Creations Ltd.,4575 Hillside Dr.,New Bedford,MA,50553,USA,Medium
+472,10248,42,75.48,11,3170.16,2004-05-07,Cancelled,2,Mai,2004,Vintage Cars,S18_4522,Land of Toys Inc.,897 Long Airport Avenue,NYC,NY,10022,USA,Medium
+473,10337,29,100.0,2,4498.19,2004-11-21,Shipped,4,Nov,2004,Vintage Cars,S18_4522,Classic Legends Inc.,5905 Pompton St.,NYC,NY,10022,USA,Medium
+474,10396,45,100.0,5,4739.4,2005-03-23,Shipped,1,Mar,2005,Vintage Cars,S18_4522,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+475,10414,16,75.48,11,1207.68,2005-05-06,On Hold,2,Mai,2005,Vintage Cars,S18_4522,Gifts4AllAges.com,8616 Spinnaker Dr.,Boston,MA,51003,USA,Small
+476,10140,40,100.0,5,4601.2,2003-07-24,Shipped,3,Jul,2003,Trucks and Buses,S18_4600,Technics Stores Inc.,9408 Furth Circle,Burlingame,CA,94217,USA,Medium
+477,10183,21,100.0,2,2441.04,2003-11-13,Shipped,4,Nov,2003,Trucks and Buses,S18_4600,"Classic Gift Ideas, Inc",782 First Street,Philadelphia,PA,71270,USA,Small
+478,10207,47,100.0,16,6658.02,2003-12-09,Shipped,4,Dec,2003,Trucks and Buses,S18_4600,Diecast Collectables,6251 Ingle Ln.,Boston,MA,51003,USA,Medium
+479,10229,41,100.0,10,4716.23,2004-03-11,Shipped,1,Mar,2004,Trucks and Buses,S18_4600,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+480,10245,21,100.0,3,2390.22,2004-05-04,Shipped,2,Mai,2004,Trucks and Buses,S18_4600,Super Scale Inc.,567 North Pendale Street,New Haven,CT,97823,USA,Small
+481,10281,25,99.29,10,2482.25,2004-08-19,Shipped,3,Ago,2004,Trucks and Buses,S18_4600,Diecast Classics Inc.,7586 Pompton St.,Allentown,PA,70267,USA,Small
+482,10305,22,99.29,14,2184.38,2004-10-13,Shipped,4,Oct,2004,Trucks and Buses,S18_4600,Marta's Replicas Co.,39323 Spinnaker Dr.,Cambridge,MA,51247,USA,Small
+483,10357,28,100.0,2,3559.64,2004-12-10,Shipped,4,Dec,2004,Trucks and Buses,S18_4600,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+484,10382,39,100.0,1,4890.6,2005-02-17,Shipped,1,Feb,2005,Trucks and Buses,S18_4600,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+485,10113,50,49.81,3,2490.5,2003-03-26,Shipped,1,Mar,2003,Vintage Cars,S18_4668,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+486,10140,29,43.27,9,1254.83,2003-07-24,Shipped,3,Jul,2003,Vintage Cars,S18_4668,Technics Stores Inc.,9408 Furth Circle,Burlingame,CA,94217,USA,Small
+487,10183,40,49.3,6,1972.0,2003-11-13,Shipped,4,Nov,2003,Vintage Cars,S18_4668,"Classic Gift Ideas, Inc",782 First Street,Philadelphia,PA,71270,USA,Small
+488,10215,46,45.28,1,2082.88,2004-01-29,Shipped,1,Jan,2004,Vintage Cars,S18_4668,West Coast Collectables Co.,3675 Furth Circle,Burbank,CA,94019,USA,Small
+489,10229,39,40.25,14,1569.75,2004-03-11,Shipped,1,Mar,2004,Vintage Cars,S18_4668,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+490,10245,45,59.87,7,2694.15,2004-05-04,Shipped,2,Mai,2004,Vintage Cars,S18_4668,Super Scale Inc.,567 North Pendale Street,New Haven,CT,97823,USA,Small
+491,10281,44,59.87,14,2634.28,2004-08-19,Shipped,3,Ago,2004,Vintage Cars,S18_4668,Diecast Classics Inc.,7586 Pompton St.,Allentown,PA,70267,USA,Small
+492,10312,39,56.85,1,2217.15,2004-10-21,Shipped,4,Oct,2004,Vintage Cars,S18_4668,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Small
+493,10324,38,100.0,6,6832.02,2004-11-05,Shipped,4,Nov,2004,Vintage Cars,S18_4668,Vitachrome Inc.,2678 Kingston Rd.,NYC,NY,10022,USA,Medium
+494,10333,24,79.86,8,1916.64,2004-11-18,Shipped,4,Nov,2004,Vintage Cars,S18_4668,Mini Wheels Co.,5557 North Pendale Street,San Francisco,CA,,USA,Small
+495,10382,39,100.0,2,7827.3,2005-02-17,Shipped,1,Feb,2005,Vintage Cars,S18_4668,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Large
+496,10135,31,100.0,12,4705.18,2003-07-02,Shipped,3,Jul,2003,Classic Cars,S18_4721,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+497,10146,29,100.0,1,4444.54,2003-09-03,Shipped,3,Sep,2003,Classic Cars,S18_4721,Gift Ideas Corp.,2440 Pompton St.,Glendale,CT,97561,USA,Medium
+498,10159,32,100.0,7,4618.88,2003-10-10,Shipped,4,Oct,2003,Classic Cars,S18_4721,Corporate Gift Ideas Co.,7734 Strong St.,San Francisco,CA,,USA,Medium
+499,10264,20,100.0,2,2410.6,2004-06-30,Shipped,2,Jun,2004,Classic Cars,S18_4721,Gifts4AllAges.com,8616 Spinnaker Dr.,Boston,MA,51003,USA,Small
+500,10276,48,100.0,8,5713.92,2004-08-02,Shipped,3,Ago,2004,Classic Cars,S18_4721,Online Mini Collectables,7635 Spinnaker Dr.,Brickhaven,MA,58339,USA,Medium
+501,10319,45,100.0,3,7901.1,2004-11-03,Shipped,4,Nov,2004,Classic Cars,S18_4721,Microscale Inc.,5290 North Pendale Street,NYC,NY,10022,USA,Large
+502,10390,49,100.0,3,6862.94,2005-03-04,Shipped,1,Mar,2005,Classic Cars,S18_4721,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+503,10124,23,57.73,8,1327.79,2003-05-21,Shipped,2,Mai,2003,Classic Cars,S18_4933,Signal Gift Stores,8489 Strong St.,Las Vegas,NV,83030,USA,Small
+504,10182,44,69.84,12,3072.96,2003-11-12,Shipped,4,Nov,2003,Classic Cars,S18_4933,Mini Gifts Distributors Ltd.,5677 Strong St.,San Rafael,CA,97562,USA,Medium
+505,10204,45,76.26,6,3431.7,2003-12-02,Shipped,4,Dec,2003,Classic Cars,S18_4933,Muscle Machine Inc,4092 Furth Circle,NYC,NY,10022,USA,Medium

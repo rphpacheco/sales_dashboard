@@ -1,0 +1,7 @@
+.venv
+__pycache__
+index.py
+orders.csv
+sales_json.ipynb
+sales.ipynb
+sales.json
